@@ -1,22 +1,25 @@
-## Description
-_Quoi ? pourquoi ?_
+## 📌 Description
+Décris clairement ce que fait cette PR (feature, fix, refactor…).
 
-## Type de changement
-- [ ] feat
-- [ ] fix
-- [ ] chore
-- [ ] docs
-- [ ] test
+## 🧪 Type de changement
+- [ ] ✨ Feature (nouvelle fonctionnalité)
+- [ ] 🐛 Bug fix (correction d’un problème)
+- [ ] ♻️ Refactor (amélioration sans ajout de feature)
+- [ ] 🧹 Chore (maintenance, CI/CD, dépendances)
+- [ ] 📖 Docs (documentation)
 
-## Checklist
-- [ ] Tests unitaires ajoutés / mis à jour
-- [ ] Lint passé localement
-- [ ] Documentation mise à jour
+## ✅ Checklist
+- [ ] Code testé localement (pytest / smoke test)
+- [ ] Lint & type checks passés (flake8, mypy)
+- [ ] Pas de secrets ou credentials dans le code
+- [ ] Documentation mise à jour si nécessaire
 - [ ] Version / changelog mis à jour (si applicable)
 
-## Environnements impactés
-- dev / staging / prod
+## 🔎 Liens / Références
+- Issue liée : #
+- Documentation / liens utiles : 
 
-## Commands to test locally
-```bash
-python -m pytest tests/test_XXXX.py -q
+## 🚀 Étapes de test
+1. Commandes lancées
+2. Résultats attendus
+3. Résultats obtenus
